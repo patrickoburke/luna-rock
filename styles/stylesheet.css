@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.section-home-first {
+  background-image: url("../images/luna-rock.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 40em;
+}
